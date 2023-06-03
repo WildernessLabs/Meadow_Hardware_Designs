@@ -2,16 +2,17 @@
 
 Welcome to the Meadow Hardware Designs repo! Here you will find design schematics for our various commercial boards.
 
+For more information about these hardware designs, please see the [Meadow Hardware Guide](http://developer.wildernesslabs.co/Meadow/Meadow_Basics/Hardware/).
+
 ## Meadow F7v2 Boards
 
 These are the most current board designs:
  * [Meadow F7v2 Dev Module](Meadow_F7v2/Micro_Dev_Module/)
- * [Meadow F7v2 Core-Compute Module](Meadow_F7v2/Core-Compute_Module/)
+ * [Meadow F7v2 Core-Compute Module (CCM)](Meadow_F7v2/Core-Compute_Module/)
 
-### Core-Compute Breakouts
+### Core-Compute Module Breakouts
 
-These are example breakout boards for the F7v2 Core-Compute modules:
- * [Meadow F7v2 Core-Compute Full Debug Breakout](Meadow_F7v2/Core-Compute_Module_Breakouts) - Everything!
+For CCM breakout designs, please see the [Meadow.Core-Compute.DevBreakouts](https://github.com/WildernessLabs/Meadow.Core-Compute.DevBreakouts) repo.
 
 # License
 
